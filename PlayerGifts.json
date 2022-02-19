@@ -1,19 +1,19 @@
 {
    "LastUpdated":"2022-8-14T19:33:35.5686476+10:00",
    "UserGifts":{
-      "3935501546":[
+      "153628704":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"[Quest_SciFi_AutomaticGun]",
-            "EquipmentModificationGuid":"bafacc36-02c6-408c-a3f5-8c2aa07a68db",
+            "EquipmentPrefabName":"[Quest_SciFi_Shotgun]",
+            "EquipmentModificationGuid":"bb36b722-16dc-4172-b61f-237dc1240040",
             "CurrencyType":2,
             "Currency":999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"gun",
+            "Message":"Weekly",
             "Context":2
          },
          {
@@ -27,7 +27,7 @@
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"gaypen",
+            "Message":"Contest",
             "Context":2
          },
       ]
