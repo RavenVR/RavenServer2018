@@ -1,19 +1,19 @@
 {
-   "LastUpdated":"2022-17-2T19:35:56.5686776+10:00",
+   "LastUpdated":"2021-10-17T19:33:35.5686476+10:00",
    "UserGifts":{
-      "1447107304":[
+      "153628704":[
          {
             "Id":9008,
-            "AvatarItemDesc":"4308da04-af84-40bb-845a-7a9e1a2726ec,46970903-9799-4d25-b90a-7162c1f5dbef,c2052d8c-fbcd-4462-8f08-bcf5b3dfde2f,",
+            "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":0,
+            "Currency":69,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Thank you for your free purchase!",
+            "Message":"Tokens",
             "Context":2
          }
       ]
