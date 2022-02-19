@@ -1,10 +1,10 @@
 {
-   "LastUpdated":"2021-10-17T19:33:35.5686476+10:00",
+   "LastUpdated":"2021-23-17T19:33:35.5686476+10:00",
    "UserGifts":{
       "153628704":[
          {
             "Id":9008,
-            "AvatarItemDesc":"",
+            "AvatarItemDesc":"7134c60b-0640-463a-8d97-caa9184bef93,,,",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
@@ -13,7 +13,7 @@
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Tokens",
+            "Message":"Thank you for your free purchase!",
             "Context":2
          }
       ]
