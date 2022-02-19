@@ -1,19 +1,19 @@
 {
-   "LastUpdated":"2022-18-2T19:33:35.5686476+10:00",
+   "LastUpdated":"2022-7-2T19:33:35.5686476+10:00",
    "UserGifts":{
-      "153628704":[
+      "350227523":[
          {
             "Id":9008,
-            "AvatarItemDesc":"2b2eb9e5-d52e-4004-bdb2-0bcf6910992d,,,",
+            "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":0,
+            "Currency":9999999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Thank you for your free purchase!",
+            "Message":"Lucas shit",
             "Context":2
          }
       ]
