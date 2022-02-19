@@ -1,7 +1,7 @@
 {
    "LastUpdated":"2022-6-17T19:33:35.5686476+10:00",
    "UserGifts":{
-      "153628704":[
+      "3935501546":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
@@ -9,7 +9,7 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":0,
+            "Currency":9999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
@@ -20,14 +20,14 @@
             "Id":9008,
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"[ShareCamera]",
-            "EquipmentModificationGuid":"204f84a2-6ee2-45e1-9168-87f43e893e32",
+            "EquipmentPrefabName":"[Quest_SciFi_Shotgun]",
+            "EquipmentModificationGuid":"cd497ae2-6382-42f2-9f92-93d5141588c3",
             "CurrencyType":2,
             "Currency":6942000,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Camera",
+            "Message":"Maker Pen",
             "Context":2
          }
       ]
