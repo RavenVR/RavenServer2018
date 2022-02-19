@@ -1,21 +1,20 @@
 {
    "LastUpdated":"2022-8-17T19:33:35.5686476+10:00",
    "UserGifts":{
-      "350227523":[
+      "3935501546":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"[Basketball]",
-            "EquipmentModificationGuid":"e6899422-ab2f-4bd9-8e98-aef950ec27b6",
+            "EquipmentPrefabName":"",
+            "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":6942000,
+            "Currency":9999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Maker Pen",
+            "Message":"Tokens",
             "Context":2
-         }
-      ]
+         },
    }
 }
