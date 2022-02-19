@@ -29,6 +29,34 @@
             "GiftRarity":0,
             "Message":"Lucas shit",
             "Context":2
+         },
+         {
+            "Id":9008,
+            "AvatarItemDesc":"",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"[Basketball]",
+            "EquipmentModificationGuid":"56582acf-c7a0-4aff-b3aa-2fdea4d254a3",
+            "CurrencyType":2,
+            "Currency":6942000,
+            "Xp":0,
+            "Level":0,
+            "GiftRarity":0,
+            "Message":"Lucas shit",
+            "Context":2
+         },
+         {
+            "Id":9008,
+            "AvatarItemDesc":"",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"MakerPen",
+            "EquipmentModificationGuid":"204f84a2-6ee2-45e1-9168-87f43e893e32",
+            "CurrencyType":2,
+            "Currency":6942000,
+            "Xp":0,
+            "Level":0,
+            "GiftRarity":0,
+            "Message":"Lucas shit",
+            "Context":2
          }
       ]
    }
