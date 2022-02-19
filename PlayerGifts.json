@@ -1,19 +1,19 @@
 {
-   "LastUpdated":"2022-7-2T19:33:35.5686476+10:00",
+   "LastUpdated":"2022-5-3T19:33:35.5686476+10:00",
    "UserGifts":{
-      "350227523":[
+      "153628704":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
+            "EquipmentPrefabName":"[PaintballGun]",
+            "EquipmentModificationGuid":"4aff20ee-0b20-434b-a030-d3e1764fe4e7",
             "CurrencyType":2,
-            "Currency":99999999,
+            "Currency":0,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Lucas shit",
+            "Message":"Weekly",
             "Context":2
          }
       ]
