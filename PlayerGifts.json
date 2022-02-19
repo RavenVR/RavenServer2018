@@ -15,20 +15,6 @@
             "GiftRarity":0,
             "Message":"Thank you for your free purchase!",
             "Context":2
-            {
-            },
-            "Id":9008,
-            "AvatarItemDesc":"",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":10000,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Thank you for your free purchase!",
-            "Context":2
          }
       ]
    }
