@@ -4,9 +4,9 @@
       "153628704":[
          {
             "Id":9008,
-            "AvatarItemDesc":"52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
+            "AvatarItemDesc":"",
+            "ConsumableItemDesc":"[Longbow]",
+            "EquipmentPrefabName":"52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
             "Currency":0,
