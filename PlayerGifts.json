@@ -15,21 +15,7 @@
             "GiftRarity":0,
             "Message":"Weekly",
             "Context":2
-         },
-         {
-            "Id":9008,
-            "AvatarItemDesc":"",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"[MakerPen]",
-            "EquipmentModificationGuid":"79090a4b-e191-4788-9210-88a7bdf6d828",
-            "CurrencyType":2,
-            "Currency":999999,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Contest",
-            "Context":2
-         },
+         }
       ]
    }
 }
