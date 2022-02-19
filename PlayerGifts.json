@@ -1,7 +1,7 @@
 {
    "LastUpdated":"2022-6-17T19:33:35.5686476+10:00",
    "UserGifts":{
-      "153628704":[
+      "3935501546":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
@@ -21,13 +21,13 @@
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"[MakerPen]",
-            "EquipmentModificationGuid":"204f84a2-6ee2-45e1-9168-87f43e893e32",
+            "EquipmentModificationGuid":"79090a4b-e191-4788-9210-88a7bdf6d828",
             "CurrencyType":2,
             "Currency":6942000,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Lucas shit",
+            "Message":"Maker Pen",
             "Context":2
          }
       ]
