@@ -5,9 +5,9 @@
          {
             "Id":9008,
             "AvatarItemDesc":"",
-            "ConsumableItemDesc":"[Longbow]",
-            "EquipmentPrefabName":"52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
-            "EquipmentModificationGuid":"",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"[Longbow]",
+            "EquipmentModificationGuid":"52c6a138-10c5-4aab-9c3b-04b50c9a2dc5",
             "CurrencyType":2,
             "Currency":0,
             "Xp":0,
