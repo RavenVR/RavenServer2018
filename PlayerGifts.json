@@ -1,7 +1,7 @@
 {
    "LastUpdated":"2022-7-2T19:33:35.5686476+10:00",
    "UserGifts":{
-      "153628704":[
+      "350227523":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
@@ -9,7 +9,7 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":1000000,
+            "Currency":99999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
