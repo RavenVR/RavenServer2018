@@ -1,13 +1,13 @@
 {
-   "LastUpdated":"2022-18-2T19:34:30.5686476+10:00",
+   "LastUpdated":"2022-17-2T19:34:56.5686676+10:00",
    "UserGifts":{
       "153628704":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
-            "ConsumableItemDesc":"ZuvkidodzkuOfGLDnTOFyg",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"[DiscGolfDisc]",
+            "EquipmentModificationGuid":"9d2a3618-12b3-4ca0-be59-ed15d7926d77",
             "CurrencyType":2,
             "Currency":0,
             "Xp":0,
