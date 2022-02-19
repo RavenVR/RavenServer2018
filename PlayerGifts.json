@@ -1,33 +1,19 @@
 {
-   "LastUpdated":"2022-12-14T19:33:35.5686476+10:00",
+   "LastUpdated":"2022-10-14T19:33:35.5686476+10:00",
    "UserGifts":{
       "153628704":[
          {
             "Id":9008,
-            "AvatarItemDesc":"5ac25e5a-8c8e-445c-82a4-7272baec1eb5,,,",
+            "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":3,
+            "Currency":9999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Doctor's Head Mirror",
-            "Context":2
-            {
-            },
-            "Id":9008,
-            "AvatarItemDesc":"1a028850-64ee-40ab-b547-ebbcfa1b04b3,,,",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":3,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Drum Major Hat (Red)",
+            "Message":"Double Tokens",
             "Context":2
          }
       ]
