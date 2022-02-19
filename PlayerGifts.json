@@ -12,7 +12,7 @@
             "Currency":9999999,
             "Xp":0,
             "Level":0,
-            "GiftRarity":0,
+            "GiftRarity":5,
             "Message":"Tokens",
             "Context":2
          },
@@ -26,8 +26,8 @@
             "Currency":6942000,
             "Xp":0,
             "Level":0,
-            "GiftRarity":0,
-            "Message":"Maker Pen",
+            "GiftRarity":3,
+            "Message":"lmao get fucked",
             "Context":2
          }
       ]
