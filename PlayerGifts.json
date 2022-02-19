@@ -1,19 +1,19 @@
 {
-   "LastUpdated":"2022-8-16T19:33:35.5686476+10:00",
+   "LastUpdated":"2022-8-15T19:33:35.5686476+10:00",
    "UserGifts":{
-      "1260281079":[
+      "3935501546":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
+            "EquipmentPrefabName":"[Quest_SciFi_AutomaticGun]",
+            "EquipmentModificationGuid":"bafacc36-02c6-408c-a3f5-8c2aa07a68db",
             "CurrencyType":2,
             "Currency":999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Tokens",
+            "Message":"gun",
             "Context":2
          },
       ]
