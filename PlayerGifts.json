@@ -1,19 +1,19 @@
 {
-   "LastUpdated":"2021-12-4T18:33:35.5686476+10:00",
+   "LastUpdated":"2022-23-1T18:33:35.5686476+10:00",
    "UserGifts":{
       "153628704":[
          {
             "Id":9008,
-            "AvatarItemDesc":"",
+            "AvatarItemDesc":"2b2eb9e5-d52e-4004-bdb2-0bcf6910992d,,,",
             "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"[PaintballGun]",
-            "EquipmentModificationGuid":"4aff20ee-0b20-434b-a030-d3e1764fe4e7",
+            "EquipmentPrefabName":"",
+            "EquipmentModificationGuid":"",
             "CurrencyType":2,
             "Currency":0,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Weekly",
+            "Message":"Thank you for your free purchase!",
             "Context":2
          }
       ]
