@@ -1,19 +1,19 @@
 {
    "LastUpdated":"2012-26-2T18:34:36.53747473+12:00",
    "UserGifts":{
-      "153628704":[
+      "1682461747":[
          {
             "Id":9008,
-            "AvatarItemDesc":"d0a9262f-5504-46a7-bb10-7507503db58e,c0ff7719-c56a-4934-831b-506ad0f51cca,3259238f-4a9e-4e06-99de-6e7324fa0894,e38294cf-6279-4863-9aea-1a19aeaf8476",
+            "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":1,
-            "Currency":0,
+            "Currency":69000000,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Laser Tag",
+            "Message":"",
             "Context":2
          }
       ]
