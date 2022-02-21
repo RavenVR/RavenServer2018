@@ -1,7 +1,7 @@
 {
-   "LastUpdated":"2021-10-17T19:33:35.5686476+10:00",
+   "LastUpdated":"2016-11-08T21:06:44.943Z",
    "UserGifts":{
-      "153628704":[
+      "3631424602":[
          {
             "Id":9008,
             "AvatarItemDesc":"",
@@ -18,7 +18,7 @@
          },
          {
             "Id":9008,
-            "AvatarItemDesc":"9d68e9f4-6ea0-4717-bb78-f2783a14a6b6,,,,",
+            "AvatarItemDesc":"b89be768-a169-4b24-8022-751e7b817865,5864d23d-1a86-40a6-a52c-46ee670e4508,uB4gFxfrh0W5OtkmZdFN1Q,",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
@@ -27,7 +27,7 @@
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Lucas shit",
+            "Message":"Visor",
             "Context":2
          }
       ]
