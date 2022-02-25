@@ -3,18 +3,18 @@
    "UserGifts":{
       "69420":[
          {
-            "Id":null,
-            "AvatarItemDesc":"",
+            "Id":9008,
+            "AvatarItemDesc":"d3d69bee-60bc-44a3-ad7c-65b3b69d1e59,,,",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
-            "CurrencyType":null,
-            "Currency":0,
+            "CurrencyType":2,
+            "Currency":4777,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"",
-            "Context":0
+            "Message":"Fuck you",
+            "Context":2
          }
       ]
    }
