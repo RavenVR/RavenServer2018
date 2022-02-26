@@ -1,63 +1,21 @@
 {
-   "LastUpdated":"2018-01-07T05:46:17.377Z",
+   "LastUpdated":"2017-01-07T05:46:17.377Z",
    "UserGifts":{
-      "153628704":[
+      "4268266500":[
          {
             "Id":9008,
-            "AvatarItemDesc":"f17a2f9e-1eab-44e8-b10a-1f53c5d0778c,,,",
+            "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":4777,
+            "Currency":50000,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
             "Message":"Fuck you",
             "Context":2
          },
-         {
-            "Id":9008,
-            "AvatarItemDesc":"11e508a7-fe7d-470e-b270-2dba33e2f7a1,,,",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":4777,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Fuck you",
-            "Context":2
-         },
-         {
-            "Id":9008,
-            "AvatarItemDesc":"9d68e9f4-6ea0-4717-bb78-f2783a14a6b6,,,",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":4777,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Fuck you",
-            "Context":2
-           },
-           {
-            "Id":9008,
-            "AvatarItemDesc":"9d68e9f4-6ea0-4717-bb78-f2783a14a6b6,KTidYfH0ckWxJGs5qzUBTQ,VSZX99mSt0e7gPRM2_XzMw",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":4777,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Fuck you",
-            "Context":2
-           }
        ]
    }
 }
