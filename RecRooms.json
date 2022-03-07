@@ -926,47 +926,6 @@
       }
     ]
   },
-  "MakerRoom": {
-    "Room": {
-      "RoomId": 4,
-      "Name": "MakerRoom",
-      "Description": "test",
-      "CreatorPlayerId": 153628704,
-      "ImageName": "ActivityBowlingAlley.png",
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsAGRoom": true,
-      "CloningAllowed": false,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId": 1,
-        "RoomId": 3,
-        "RoomSceneLocationId": "3a2d8a48-2a7e-4344-bb88-254ea105043e",
-        "Name": "Basement",
-        "IsSandbox": false,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
-      }
-    ],
-    "CoOwners": [],
-    "Hosts": [],
-    "CheerCount": 1,
-    "FavoriteCount": 1,
-    "VisitCount": 69,
-    "Tags": [
-      {
-        "Tag": "rro",
-        "Type": 2
-      }
-    ]
-  },
   "RecCenter": {
     "Room": {
       "RoomId": 2,
