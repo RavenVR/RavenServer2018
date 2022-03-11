@@ -926,47 +926,6 @@
       }
     ]
   },
-    "ArtTesting": {
-    "Room": {
-      "RoomId": 3,
-      "Name": "ArtTesting",
-      "Description": "This is the Rec Room debug room thats in every version (i think) of rec room.",
-      "CreatorPlayerId": 153628704,
-      "ImageName": "Activity.png",
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsAGRoom": true,
-      "CloningAllowed": false,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId": 1,
-        "RoomId": 3,
-        "RoomSceneLocationId": "cc338cd1-9883-0c14-99b3-ab069a360ee3",
-        "Name": "ArtTesting",
-        "IsSandbox": true,
-        "DataBlobName": "",
-        "MaxPlayers": 20,
-        "CanMatchmakeInto": true,
-        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
-      }
-    ],
-    "CoOwners": [],
-    "Hosts": [],
-    "CheerCount": 1,
-    "FavoriteCount": 1,
-    "VisitCount": 1,
-    "Tags": [
-      {
-        "Tag": "rro, #debug",
-        "Type": 2
-      }
-    ]
-  },
   "RecCenter": {
     "Room": {
       "RoomId": 2,
