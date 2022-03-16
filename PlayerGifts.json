@@ -1,19 +1,75 @@
 {
    "LastUpdated":"2018-01-07T05:46:17.377Z",
    "UserGifts":{
-      "153628704":[
+      "3631424602":[
          {
             "Id":9008,
-            "AvatarItemDesc":"",
+            "AvatarItemDesc":"6b9e022c-0b68-48fd-8eca-da8573c18900,,,",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":6969,
-            "Xp":6969,
-            "Level":1,
+            "Currency":6942000,
+            "Xp":0,
+            "Level":0,
             "GiftRarity":0,
-            "Message":"Fuck you",
+            "Message":"yay items are yours ye",
+            "Context":2
+          },
+          {
+            "Id":9008,
+            "AvatarItemDesc":"f527ffaf-da03-4519-82ed-46a9cb981dc3,a1c51d1e-1d5f-4f8a-bc0f-6a20eddfe58a,e0186718-4a18-434b-b96e-0c9c912f0d1f,",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"",
+            "EquipmentModificationGuid":"",
+            "CurrencyType":2,
+            "Currency":6942000,
+            "Xp":0,
+            "Level":0,
+            "GiftRarity":0,
+            "Message":"yay items are yours ye",
+            "Context":2
+          },
+          {     
+            "Id":9008,
+            "AvatarItemDesc":"7a7d8a06-7982-4bcb-b7bd-4d03b48889b4,2913bd93-bf35-4bdf-b83a-d40a10213adc,ff5ae41e-e446-4a96-8c11-49d85556fa81,",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"",
+            "EquipmentModificationGuid":"",
+            "CurrencyType":2,
+            "Currency":6942000,
+            "Xp":0,
+            "Level":0,
+            "GiftRarity":0,
+            "Message":"yay items are yours ye",
+            "Context":2
+          },
+          { 
+            "Id":9008,
+            "AvatarItemDesc":"ecc1dbe6-ca06-4564-b2a6-30956194d1e9,8377ab96-c908-457f-9fee-b784c9a759f3,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"",
+            "EquipmentModificationGuid":"",
+            "CurrencyType":2,
+            "Currency":6942000,
+            "Xp":0,
+            "Level":0,
+            "GiftRarity":0,
+            "Message":"yay items are yours ye",
+            "Context":2
+          },
+          { 
+            "Id":9008,
+            "AvatarItemDesc":"d0a9262f-5504-46a7-bb10-7507503db58e,5864d23d-1a86-40a6-a52c-46ee670e4508,2ee3944d-e9fb-4959-973e-570a7fc6cc57,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
+            "ConsumableItemDesc":"",
+            "EquipmentPrefabName":"",
+            "EquipmentModificationGuid":"",
+            "CurrencyType":2,
+            "Currency":6942000,
+            "Xp":0,
+            "Level":0,
+            "GiftRarity":0,
+            "Message":"yay items are yours ye",
             "Context":2
           }
        ]
