@@ -926,13 +926,13 @@
       }
     ]
   },
-    "GribblyTheater": {
+    "TalkingBenTheDog": {
     "Room": {
       "RoomId": 4,
-      "Name": "GribblyTheater",
+      "Name": "TalkingBenTheDog",
       "Description": "This is the theater that gribbly made back when custom rooms were made.",
       "CreatorPlayerId": 153628704,
-      "ImageName": "Activity3DCharades.png",
+      "ImageName": "ActivityTalkingBen.png",
       "State": 0,
       "Accessibility": 1,
       "SupportsLevelVoting": false,
@@ -945,9 +945,9 @@
     "Scenes": [
       {
         "RoomSceneId": 1,
-        "RoomId": 3,
-        "RoomSceneLocationId": "9932f88f-3929-43a0-a012-a40b5128e346",
-        "Name": "Hall",
+        "RoomId": 4,
+        "RoomSceneLocationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name": "Ben1",
         "IsSandbox": true,
         "DataBlobName": "Unm-BHhnYUq04YOhhRY8pg.room",
         "MaxPlayers": 20,
