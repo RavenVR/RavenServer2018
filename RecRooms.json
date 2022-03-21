@@ -1046,13 +1046,13 @@
       }
     ]
   },
-    "FarmlandBETA": {
+    "lazershooting2018": {
     "Room": {
-      "RoomId":50288,
-      "Name":"FarmlandBETA",
-      "Description":"[contest]",
+      "RoomId":127190,
+      "Name":"lazershooting2018",
+      "Description":"Shooting range but Lazers!",
       "CreatorPlayerId":153628704,
-      "ImageName":"ActivityFarmlandBETA.jpg",
+      "ImageName":"Activitylazershooting2018.jpg",
       "Accessibility":1,
       "SupportsLevelVoting":false,
       "IsAGRoom":false,
@@ -1064,11 +1064,11 @@
     "Scenes": [
       {
         "RoomSceneId":1,
-        "RoomId":50288,
-        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "RoomId":127190,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
         "Name":"Home",
         "IsSandbox":true,
-        "DataBlobName":"d00ac359fcaf41abb77a6255234a6972.room",
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
         "MaxPlayers":40,
         "CanMatchmakeInto":true,
         "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
