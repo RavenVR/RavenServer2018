@@ -1006,7 +1006,8 @@
       }
     ]
   },
-      "Room": {
+   "modernart": {
+   "Room": {
       "RoomId":2365681,
       "Name":"modernart",
       "Description":"[contest]",
