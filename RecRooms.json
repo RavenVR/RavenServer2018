@@ -1126,52 +1126,12 @@
       }
     ]
   },
-    "PondShootingRange2018": {
-    "Room": {
-      "RoomId":127157,
-      "Name":"PondShootingRange2018",
-      "Description":"Park",
-      "CreatorPlayerId":153628704,
-      "ImageName":"ActivityPondShootingRange2018.jpg",
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":false,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":1,
-        "RoomId":127157,
-        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
-        "Name":"Home",
-        "IsSandbox":true,
-        "DataBlobName":"C9-dLvU9HUyTrzR-BVATWw.room",
-        "MaxPlayers":20,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
-      }
-    ],
-    "CoOwners":[29869076],
-    "Hosts":[],
-    "CheerCount":1,
-    "FavoriteCount":1,
-    "VisitCount":1,
-    "Tags": [
-      {
-        "Tag":"rro",
-        "Type":2
-      }
-    ]
-  },
-      "RonAndRegBoxing": {
+    "RonAndRegBoxing": {
     "Room": {
       "RoomId":2365681,
       "Name":"RonAndRegBoxing",
       "Description":"Boxing Club",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":153628704,
       "ImageName":"ActivityRonAndRegBoxing.jpg",
       "Accessibility":1,
       "SupportsLevelVoting":false,
@@ -1202,6 +1162,46 @@
     "Tags": [
       {
         "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+    "justdance2018": {
+    "Room": {
+      "RoomId":6321,
+      "Name":"justdance2018",
+      "Description":"dance",
+      "CreatorPlayerId":153628704,
+      "ImageName":"Activityjustdance2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":6321,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"qM5q4jnjA0Wr9LbuzXI7jA.room",
+        "MaxPlayers":16,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro, #dance",
         "Type":2
       }
     ]
